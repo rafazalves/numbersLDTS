@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.aor.numbers.ListAggregatorTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-10-12T08:49:20" hostname="DESKTOP-880E6DH" time="0.489">
+  <properties/>
+  <testcase name="distinct()" classname="com.aor.numbers.ListAggregatorTest" time="0.489"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
