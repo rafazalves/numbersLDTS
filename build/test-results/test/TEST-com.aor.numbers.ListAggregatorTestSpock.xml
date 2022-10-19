@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.aor.numbers.ListAggregatorTestSpock" tests="4" skipped="0" failures="1" errors="0" timestamp="2022-10-19T07:58:31" hostname="DESKTOP-880E6DH" time="0.016">
+  <properties/>
+  <testcase name="sum test" classname="com.aor.numbers.ListAggregatorTestSpock" time="0.005"/>
+  <testcase name="max test" classname="com.aor.numbers.ListAggregatorTestSpock" time="0.001"/>
+  <testcase name="min test" classname="com.aor.numbers.ListAggregatorTestSpock" time="0.001"/>
+  <testcase name="distinct test" classname="com.aor.numbers.ListAggregatorTestSpock" time="0.008">
+    <failure message="groovy.lang.GroovyRuntimeException: Could not find matching constructor for: com.aor.numbers.ListDeduplicator(com.aor.numbers.ListSorter)" type="groovy.lang.GroovyRuntimeException">groovy.lang.GroovyRuntimeException: Could not find matching constructor for: com.aor.numbers.ListDeduplicator(com.aor.numbers.ListSorter)
+	at com.aor.numbers.ListAggregatorTestSpock.distinct test(ListAggregatorTestSpock.groovy:38)
+</failure>
+  </testcase>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
